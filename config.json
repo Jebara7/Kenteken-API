@@ -1,0 +1,7 @@
+{
+    "MYSQL_HOST": "fonteyndb.mysql.database.azure.com",
+    "MYSQL_USER": "fonteynadmin",
+    "MYSQL_PASSWORD": "Admin01!",
+    "MYSQL_DATABASE": "fonteyn",
+    "MYSQL_PORT": "3306"
+}
